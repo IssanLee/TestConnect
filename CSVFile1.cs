@@ -82,6 +82,11 @@ namespace CSVDataCheck
         /// [ZH] 完成日時。
         /// </summary>
         public string DateCompleted { get; set; }
+		
+		/// <summary>
+        /// [ZH] 随便写写
+        /// </summary>
+		public string Other { get; set; }
 
     }
 }
