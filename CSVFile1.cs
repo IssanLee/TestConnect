@@ -88,5 +88,6 @@ namespace CSVDataCheck
         /// </summary>
 		public string Other { get; set; }
 
+        public string Hello { get; set;}
     }
 }
